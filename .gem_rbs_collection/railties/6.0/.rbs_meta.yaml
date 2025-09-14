@@ -1,0 +1,9 @@
+---
+name: railties
+version: '6.0'
+source:
+  type: git
+  name: ruby/gem_rbs_collection
+  revision: 1c0e3f62ff100436becf905ec3ae30a691019384
+  remote: https://github.com/ruby/gem_rbs_collection.git
+  repo_dir: gems
